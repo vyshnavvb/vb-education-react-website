@@ -11,7 +11,7 @@ function AboutUs() {
           <div className="member-card">
             <img src={vb} alt="" className="member-image" />
             <h3 className="member-name">Vyshnav V B</h3>
-            <p className="member-role">Founter</p>
+            <p className="member-role">Founder</p>
           </div>
         </div>
         <div className="about-us-description">
